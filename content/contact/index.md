@@ -14,8 +14,8 @@ I am open to opportunities, collaborations, and project discussions related to d
 You can reach me through:
 
 - **Email:** [craigthompsonotieno@gmail.com](mailto:craigthompsonotieno@gmail.com)
+- **WhatsApp:** [Message me on WhatsApp](https://wa.me/254769286072)
 - **LinkedIn:** [Craig Thompson Otieno](https://www.linkedin.com/in/craigthompsonotieno/)
-- **GitHub:** [craigthompsonotieno](https://github.com/craigthompsonotieno)
 
 ## Areas I Can Support
 

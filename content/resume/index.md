@@ -5,6 +5,7 @@ draft: false
 description: "Resume of Craig Thompson Otieno, a statistician, data analyst, and data scientist based in Nairobi, Kenya."
 showAuthor: false
 showAuthorBottom: false
+showTableOfContents: false
 ---
 
 I am a statistician, data analyst, and data scientist based in Nairobi, Kenya, with experience in survey analysis, public health analytics, human rights data, geospatial analysis, automated reporting, dashboard development, and machine learning.

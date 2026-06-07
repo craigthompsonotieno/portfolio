@@ -3,191 +3,197 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/portfolio/contact/</loc>
     <lastmod>2026-06-02T14:02:26+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2026-06-02T14:02:26+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/resume/</loc>
+    <loc>http://localhost:1313/portfolio/resume/</loc>
     <lastmod>2026-06-02T14:02:26+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/api/</loc>
+    <loc>http://localhost:1313/portfolio/posts/</loc>
+    <lastmod>2026-06-02T13:51:07+03:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/api/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/data-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-analysis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/data-cleaning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-cleaning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/data-engineering/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-engineering/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/dhs/</loc>
+    <loc>http://localhost:1313/portfolio/tags/dhs/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/fuzzy-matching/</loc>
+    <loc>http://localhost:1313/portfolio/tags/fuzzy-matching/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/geospatial-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/tags/geospatial-analysis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/health-equity/</loc>
+    <loc>http://localhost:1313/portfolio/tags/health-equity/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/jupyter-notebook/</loc>
+    <loc>http://localhost:1313/portfolio/tags/jupyter-notebook/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/projects/kenya-dhs-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/projects/kenya-dhs-analysis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/projects/maji-ndogo/</loc>
+    <loc>http://localhost:1313/portfolio/projects/maji-ndogo/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/mysql/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mysql/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/pandas/</loc>
+    <loc>http://localhost:1313/portfolio/tags/pandas/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/power-bi/</loc>
+    <loc>http://localhost:1313/portfolio/tags/power-bi/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/categories/projects/</loc>
+    <loc>http://localhost:1313/portfolio/categories/projects/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/public-health/</loc>
+    <loc>http://localhost:1313/portfolio/tags/public-health/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/portfolio/tags/python/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/r/</loc>
+    <loc>http://localhost:1313/portfolio/tags/r/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/projects/sdg-dataset-matcher/</loc>
+    <loc>http://localhost:1313/portfolio/projects/sdg-dataset-matcher/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/sdgs/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sdgs/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/sql/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sql/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/survey-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/tags/survey-analysis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/water-access/</loc>
+    <loc>http://localhost:1313/portfolio/tags/water-access/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/portfolio/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/portfolio/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/portfolio/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

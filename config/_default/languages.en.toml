@@ -21,5 +21,6 @@ title = "Craig Otieno"
   links = [
     { linkedin = "https://www.linkedin.com/in/craigthompsonotieno/" },
     { github = "https://github.com/craigthompsonotieno" },
-    { email = "mailto:craigthompsonotieno@gmail.com" }
+    { email = "mailto:craigthompsonotieno@gmail.com" },
+    { whatsapp = "https://wa.me/254769286072" }
   ]

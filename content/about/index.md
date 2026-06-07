@@ -3,6 +3,7 @@ title: "About"
 draft: false
 showAuthor: false
 showAuthorBottom: false
+showTableOfContents: false
 ---
 
 
