@@ -3,7 +3,8 @@ title: "Craig Thompson Omondi Otieno"
 avatar: "/images/headshot2_circle.png"
 ---
 
-I am a data scientist, data engineer, and researcher focused on transforming complex datasets into practical insights for decision-making in public health, infrastructure, and global development.
+I am a data scientist, data engineer, and researcher focused on transforming complex datasets into practical insights for decision-making in public health, infrastructure, and global development. My work combines statistical analysis, machine learning, data engineering, GIS, and visualization to support evidence-based decisions.
+
 
 ## What I Do
 
@@ -28,6 +29,10 @@ An end-to-end analysis of water access and infrastructure performance, identifyi
 ### Kenya DHS MNCAH Analysis
 
 A survey-based analysis of maternal, newborn, child, and adolescent health indicators using national health data.
+
+### World Bank Human Capital ML in Stata
+
+A reproducible Stata 15.1 machine learning workflow using World Bank Development Indicators to explore, cluster, and predict survival to age 65 across country-year observations.
 
 ### SDG Dataset Matcher
 

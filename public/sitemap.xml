@@ -3,13 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/portfolio/contact/</loc>
-    <lastmod>2026-06-02T14:02:26+03:00</lastmod>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/clustering/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/data-analysis/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/human-capital/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/machine-learning/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/categories/projects/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/regression/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/stata/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/wdi/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/tags/world-bank/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/projects/maji-ndogo---copy/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/projects/world-bank-human-capital-ml/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/contact/</loc>
     <lastmod>2026-06-02T14:02:26+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -28,18 +112,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/tags/api/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/categories/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/tags/data-analysis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -117,18 +189,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/categories/projects/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/projects/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/portfolio/tags/public-health/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -166,12 +226,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/portfolio/tags/survey-analysis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/portfolio/tags/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

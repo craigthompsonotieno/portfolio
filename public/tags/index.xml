@@ -9,14 +9,14 @@
     <managingEditor>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</managingEditor>
     <webMaster>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</webMaster>
     
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>API</title>
-      <link>http://localhost:1313/portfolio/tags/api/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Clustering</title>
+      <link>http://localhost:1313/portfolio/tags/clustering/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
-      <guid>http://localhost:1313/portfolio/tags/api/</guid>
+      <guid>http://localhost:1313/portfolio/tags/clustering/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,79 @@
     <item>
       <title>Data Analysis</title>
       <link>http://localhost:1313/portfolio/tags/data-analysis/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
       <guid>http://localhost:1313/portfolio/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Human Capital</title>
+      <link>http://localhost:1313/portfolio/tags/human-capital/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/human-capital/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/portfolio/tags/machine-learning/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:1313/portfolio/tags/regression/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/regression/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stata</title>
+      <link>http://localhost:1313/portfolio/tags/stata/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/stata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WDI</title>
+      <link>http://localhost:1313/portfolio/tags/wdi/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/wdi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>World Bank</title>
+      <link>http://localhost:1313/portfolio/tags/world-bank/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/world-bank/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>http://localhost:1313/portfolio/tags/api/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/tags/api/</guid>
       <description></description>
       
     </item>

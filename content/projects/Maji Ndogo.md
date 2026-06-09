@@ -8,7 +8,7 @@ categories: ["Projects"]
 showDate: false
 showAuthor: false
 showReadingTime: false
-showTableOfContents: true
+showTableOfContents: false
 showRelatedContent: false
 featureimage: "images/projects/maji-ndogo-national-analysis.png"
 ---

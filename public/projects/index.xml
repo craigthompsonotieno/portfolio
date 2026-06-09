@@ -9,7 +9,17 @@
     <managingEditor>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</managingEditor>
     <webMaster>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</webMaster>
     
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Human Capital Outcomes: Clustering &amp; Prediction with World Bank Data</title>
+      <link>http://localhost:1313/portfolio/projects/world-bank-human-capital-ml/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>http://localhost:1313/portfolio/projects/world-bank-human-capital-ml/</guid>
+      <description>A Stata 15.1 machine learning workflow using World Bank Development Indicators to predict survival to age 65 and identify human development profiles.</description>
+      
+    </item>
     
     <item>
       <title>Kenya DHS MNCAH Equity Analysis</title>

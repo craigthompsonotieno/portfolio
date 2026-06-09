@@ -45,6 +45,28 @@ The project applies complex survey methodology, survey weights, confidence inter
 
 ---
 
+
+## Human Capital Outcomes: Clustering & Prediction with World Bank Data
+
+A machine learning-style Stata project using World Bank Development Indicators to explore, cluster, and predict survival to age 65 across country-year observations.
+
+The project builds a reproducible Stata 15.1 SE workflow covering data cleaning, country-year panel construction, exploratory analysis, k-means clustering, regression-based prediction modeling, and model performance evaluation.
+
+**Tools:** Stata 15.1 SE, World Bank Development Indicators, Regression Modeling, K-means Clustering, GitHub
+
+**Key focus areas:**
+
+- World Bank Development Indicators analysis
+- Survival-to-age-65 prediction
+- Country-year panel data preparation
+- Regression-based prediction modeling
+- K-means clustering of human development profiles
+- RMSE and MAE model evaluation
+- Regression parameter export and prediction outputs
+
+[View project on GitHub](https://github.com/craigthompsonotieno/worldbank-human-capital-stata-ml)
+
+---
 ## SDG Dataset Matcher
 
 A data engineering pipeline that matches UN-DESA datasets to official SDMX Sustainable Development Goal indicators using automated text matching and similarity scoring.
