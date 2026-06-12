@@ -25,6 +25,27 @@ The project uses structured data analysis and visual reporting to explore water 
 
 ---
 
+## Superstore Sales Performance Dashboard
+
+An interactive Microsoft Excel dashboard project analyzing sales performance, profitability, regional contribution, category performance, customer segments, discount impact, and business insights using the Superstore dataset.
+
+The project transforms raw transactional sales data into a structured Excel workbook with cleaned data, pivot tables, executive dashboards, detailed performance visuals, slicers, and a final insights page with business recommendations.
+
+**Tools:** Microsoft Excel 365, Excel Tables, Pivot Tables, Pivot Charts, Slicers, Dashboard Design
+
+**Key focus areas:**
+
+- Sales and profit performance analysis
+- Regional and category contribution analysis
+- Customer segment performance
+- Discount impact and profitability review
+- Interactive Excel dashboard design
+- Business insights and recommendations
+
+[View project on GitHub](https://github.com/craigthompsonotieno/Superstore-Sales-Excel-Dashboard)
+
+---
+
 ## Kenya DHS MNCAH Equity Analysis
 
 A subnational health equity analysis using Kenya DHS 2014 microdata to examine maternal, newborn, child, adolescent, and household health indicators across Kenya’s 47 counties.

@@ -26,6 +26,10 @@ I am a data scientist, data engineer, and researcher focused on transforming com
 
 An end-to-end analysis of water access and infrastructure performance, identifying service delivery gaps and operational inefficiencies.
 
+### Superstore Sales Performance Dashboard
+
+An interactive Microsoft Excel dashboard project analyzing sales, profit, regional performance, category contribution, customer segments, discount impact, and profitability patterns using the Superstore dataset.
+
 ### Kenya DHS MNCAH Analysis
 
 A survey-based analysis of maternal, newborn, child, and adolescent health indicators using national health data.
