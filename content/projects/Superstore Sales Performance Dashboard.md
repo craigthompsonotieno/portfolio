@@ -132,4 +132,4 @@ The insights page summarizes the main findings from the dashboard and translates
 
 ## Repository
 
-[View the project on GitHub](https://github.com/craigthompsonotieno/Superstore_Sales_Excel_Dashboard)
+[View the project on GitHub](https://github.com/craigthompsonotieno/Superstore-Sales-Excel-Dashboard)
